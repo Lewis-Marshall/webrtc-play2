@@ -1,2 +1,2 @@
-# webrtc-play2
+# webrtc-play
 Created with CodeSandbox
